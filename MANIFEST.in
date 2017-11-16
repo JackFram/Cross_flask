@@ -1,0 +1,3 @@
+graft Cross/templates
+graft Cross/static
+include Cross/schema.sql
